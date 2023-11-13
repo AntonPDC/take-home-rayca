@@ -8,7 +8,7 @@ Rayca API is a backend service designed for handling API calls related to user a
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/rayca-api.git
+   git clone https://github.com/AntonPDC/rayca-api.git
    cd rayca-api
 
 2. Install dependencies:
