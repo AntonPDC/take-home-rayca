@@ -128,10 +128,6 @@ const Project = () => {
   const [project, setProject] = useState({});
   const dispatch = useDispatch();
 
-  //   const handleClick = () => {
-  //     dispatch(addProduct({ ...project, quantity, color, size }));
-  //   };
-
   useEffect(() => {
     const getProject = async () => {
       try {

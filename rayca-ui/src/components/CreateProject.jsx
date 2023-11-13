@@ -31,7 +31,7 @@ const ProjectForm = () => {
         desc,
       });
       console.log("Project created:", response.data);
-      // You can perform additional actions here, such as redirecting or updating state.
+      //  perform additional actions here, such as redirecting or updating state.
     } catch (error) {
       console.error(
         "Error creating project:",
